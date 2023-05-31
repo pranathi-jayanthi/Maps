@@ -1,5 +1,5 @@
 # Maps
 Location searching webpage with minimal design. The home page and the maps page are interlinked. We can redirect to one page from other using the buttons in their respective webpages.
 
-![image](https://github.com/pranathi-jayanthi/Maps/assets/113671307/bc427e4e-1276-4c33-be39-f0c3f2a59ad1)
-![Screenshot 2023-06-01 010847](https://github.com/pranathi-jayanthi/Maps/assets/113671307/d3921cf9-d170-43b2-941b-55ecd0b20335)
+![image](https://github.com/pranathi-jayanthi/Maps/assets/113671307/cb82fcf4-d738-4f6e-80f1-d2cdbc2cd338)
+![Screenshot 2023-06-01 010847](https://github.com/pranathi-jayanthi/Maps/assets/113671307/3a46b480-1392-492a-be11-0cf9041ccee4)
