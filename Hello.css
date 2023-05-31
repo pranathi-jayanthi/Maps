@@ -1,0 +1,42 @@
+body {
+    background-image:url("https://media.istockphoto.com/id/1035676256/photo/background-of-galaxy-and-stars.jpg?s=612x612&w=0&k=20&c=dh7eWJ6ovqnQZ9QwQQlq2wxqmAR7mgRlQTgaIylgBwc=");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+button{
+    background-color: rgba(197, 204, 226, 0.842);
+    font-family:sans-serif;
+    font-size:35px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 50%;
+    padding: 20px;
+    transition-duration: 0.4s;
+    width: 40%;
+    height:40%;
+}
+
+a{
+    text-decoration: none;
+    text-decoration-color: none;
+    color:black;
+}
+
+button:hover{
+    
+    background-color: #947788da; /* Green */
+    color: rgb(236, 230, 233);
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#link:hover{
+    color: rgb(236, 230, 233);
+}
